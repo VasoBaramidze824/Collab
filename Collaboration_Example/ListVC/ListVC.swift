@@ -13,7 +13,5 @@ final class ListVC: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .orange
     }
-    
-
 
 }
