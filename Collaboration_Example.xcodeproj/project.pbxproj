@@ -61,13 +61,21 @@
 				5A3806F92BF66773005FFAF5 /* AppDelegate.swift */,
 				5A3806FB2BF66773005FFAF5 /* SceneDelegate.swift */,
 				5A3806FD2BF66773005FFAF5 /* HomePageVC.swift */,
-				5A38070D2BF66D37005FFAF5 /* ListVC.swift */,
+				5D8301E02BF6727800571A8E /* ListVC */,
 				5A38070F2BF66D44005FFAF5 /* ProfileVC.swift */,
 				5A3807022BF66774005FFAF5 /* Assets.xcassets */,
 				5A3807042BF66774005FFAF5 /* LaunchScreen.storyboard */,
 				5A3807072BF66774005FFAF5 /* Info.plist */,
 			);
 			path = Collaboration_Example;
+			sourceTree = "<group>";
+		};
+		5D8301E02BF6727800571A8E /* ListVC */ = {
+			isa = PBXGroup;
+			children = (
+				5A38070D2BF66D37005FFAF5 /* ListVC.swift */,
+			);
+			path = ListVC;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
