@@ -14,6 +14,9 @@
 		5A3807062BF66774005FFAF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A3807042BF66774005FFAF5 /* LaunchScreen.storyboard */; };
 		5A38070E2BF66D37005FFAF5 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A38070D2BF66D37005FFAF5 /* ListVC.swift */; };
 		5A3807102BF66D44005FFAF5 /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A38070F2BF66D44005FFAF5 /* ProfileVC.swift */; };
+		5D8301E22BF67DF500571A8E /* first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8301E12BF67DF500571A8E /* first.swift */; };
+		5D8301E42BF67DFF00571A8E /* second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8301E32BF67DFF00571A8E /* second.swift */; };
+		5D8301E62BF67E0900571A8E /* third.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8301E52BF67E0900571A8E /* third.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		5A3807072BF66774005FFAF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A38070D2BF66D37005FFAF5 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
 		5A38070F2BF66D44005FFAF5 /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
+		5D8301E12BF67DF500571A8E /* first.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = first.swift; sourceTree = "<group>"; };
+		5D8301E32BF67DFF00571A8E /* second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = second.swift; sourceTree = "<group>"; };
+		5D8301E52BF67E0900571A8E /* third.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = third.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +80,9 @@
 			isa = PBXGroup;
 			children = (
 				5A38070D2BF66D37005FFAF5 /* ListVC.swift */,
+				5D8301E12BF67DF500571A8E /* first.swift */,
+				5D8301E32BF67DFF00571A8E /* second.swift */,
+				5D8301E52BF67E0900571A8E /* third.swift */,
 			);
 			path = ListVC;
 			sourceTree = "<group>";
@@ -149,8 +158,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A3807102BF66D44005FFAF5 /* ProfileVC.swift in Sources */,
+				5D8301E62BF67E0900571A8E /* third.swift in Sources */,
 				5A38070E2BF66D37005FFAF5 /* ListVC.swift in Sources */,
+				5D8301E22BF67DF500571A8E /* first.swift in Sources */,
 				5A3806FE2BF66773005FFAF5 /* HomePageVC.swift in Sources */,
+				5D8301E42BF67DFF00571A8E /* second.swift in Sources */,
 				5A3806FA2BF66773005FFAF5 /* AppDelegate.swift in Sources */,
 				5A3806FC2BF66773005FFAF5 /* SceneDelegate.swift in Sources */,
 			);
