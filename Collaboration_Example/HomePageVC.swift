@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  HomePageVC.swift
 //  Collaboration_Example
 //
 //  Created by Baramidze on 16.05.24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class HomePageVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
