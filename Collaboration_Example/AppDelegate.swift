@@ -9,6 +9,7 @@ import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
+    //"Taylor was right, haters gonna hate hate haaaaate"
 // MARK: - asdasdasdasdsad
 
 
